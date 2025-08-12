@@ -25,3 +25,4 @@ C:\Repo\NETCORE\API\ResultPatternImplementation\obj\Debug\net10.0\refint\ResultP
 C:\Repo\NETCORE\API\ResultPatternImplementation\obj\Debug\net10.0\ResultPatternImplementation.pdb
 C:\Repo\NETCORE\API\ResultPatternImplementation\obj\Debug\net10.0\ResultPatternImplementation.genruntimeconfig.cache
 C:\Repo\NETCORE\API\ResultPatternImplementation\obj\Debug\net10.0\ref\ResultPatternImplementation.dll
+C:\Repo\NETCORE\API\ResultPatternImplementation\obj\Debug\net10.0\ResultPatternImplementation.sourcelink.json
