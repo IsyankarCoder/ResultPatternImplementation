@@ -1,0 +1,13 @@
+GET http://localhost:5165 HTTP/1.1
+
+###
+GET http://localhost:5165/api/user/GetUsers  HTTP/1.1
+Host: localhost:5165
+Accept: application/json
+
+###
+POST http://localhost:5165/api/User/CreateUser HTTP/1.1
+Host: localhost:5165
+Content-Type: application/json
+{"Name":"Bafra 55","email":"volkitolki@b.com"}
+Accept: application/json
